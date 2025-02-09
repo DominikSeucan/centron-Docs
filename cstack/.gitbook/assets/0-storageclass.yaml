@@ -1,0 +1,10 @@
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  name: cloudstack-custom
+provisioner: csi.cloudstack.apache.org
+reclaimPolicy: Delete
+volumeBindingMode: WaitForFirstConsumer
+allowVolumeExpansion: false
+parameters:
+  csi.cloudstack.apache.org/disk-offering-id: e78843a9-5939-436f-b76c-b5cbd3c35d11
