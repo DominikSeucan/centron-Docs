@@ -1,5 +1,5 @@
 ---
-description: Erstellt am 29. November 2023
+description: Validiert am 28.05.2024 • Zuletzt bearbeitet am 17. September 2024
 ---
 
 # Premium Full Managing
