@@ -17,10 +17,6 @@
 * [Warnungen löschen](how-tos/warnungen-loschen.md)
 * [Advanced Monitoring deaktivieren](how-tos/advanced-monitoring-deaktivieren.md)
 
-## Referenz
-
-* [API](referenz/api.md)
-
 ## Konzepte
 
 * [Glossar](konzepte/glossar.md)
