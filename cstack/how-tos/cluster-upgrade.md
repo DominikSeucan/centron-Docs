@@ -1,5 +1,5 @@
 ---
-description: Überprüft am 28. August 2019 • Zuletzt bearbeitet am 6. November 2023
+description: Überprüft am 12. April 2023 • Zuletzt bearbeitet am 4. April 2024
 ---
 
 # Cluster Upgrade

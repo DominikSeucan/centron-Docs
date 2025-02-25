@@ -1,5 +1,5 @@
 ---
-description: Überprüft am 09.08.2024 • Zuletzt bearbeitet am 06.04.2024
+description: Überprüft am 12. April 2023 • Zuletzt bearbeitet am 4. April 2024
 ---
 
 # Pricing & Limits

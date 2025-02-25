@@ -1,5 +1,5 @@
 ---
-description: Validiert am 15.11.2024 • Zuletzt bearbeitet am 15.11.2024
+description: Überprüft am 12. April 2023 • Zuletzt bearbeitet am 4. April 2024
 ---
 
 # Persistent Volume Claims
