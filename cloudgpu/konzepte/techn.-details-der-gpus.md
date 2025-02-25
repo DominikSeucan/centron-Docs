@@ -1,3 +1,7 @@
+---
+description: Überprüft am 12. April 2024 • Zuletzt bearbeitet am 5. Januar 2025
+---
+
 # techn. Details der GPUs
 
 In diesem Artikel finden Sie die technischen Details und Spezifikationen, der von uns verbauten GPUs.\
