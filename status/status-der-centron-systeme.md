@@ -1,5 +1,5 @@
 ---
-description: Validiert am 19.09.2024 • Zuletzt bearbeitet am 18.09.2024
+description: Validiert am 19.09.2024 • Zuletzt bearbeitet am 17. Mai 2024
 ---
 
 # Status der centron Systeme
