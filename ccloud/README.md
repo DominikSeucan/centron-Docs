@@ -1,5 +1,5 @@
 ---
-description: Erstellt am 29. November 2023
+description: Validiert am 19.09.2024 • Zuletzt bearbeitet am 21. September 2024
 ---
 
 # ccloud³

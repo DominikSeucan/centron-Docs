@@ -1,5 +1,5 @@
 ---
-description: Überprüft am 28. August 2019 • Zuletzt bearbeitet am 6. November 2023
+description: Validiert am 19.09.2024 • Zuletzt bearbeitet am 21. September 2024
 ---
 
 # Pricing

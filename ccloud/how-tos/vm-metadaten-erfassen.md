@@ -1,5 +1,5 @@
 ---
-description: Überprüft am 15. November 2021 • Zuletzt bearbeitet am 6. September 2023
+description: Validiert am 19.09.2024 • Zuletzt bearbeitet am 21. September 2024
 ---
 
 # VM Metadaten erfassen
