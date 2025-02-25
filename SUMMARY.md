@@ -1,38 +1,35 @@
 # Table of contents
 
-* [⬅️ Product Home](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ymdhIwB1oE5pwJlsY87A/)
-
-## Platform Overview
-
-* [Platform Overview](README.md)
-* [Release Notes](platform-overview/release-notes.md)
-
-## Accounts
-
-* [Accounts](accounts/accounts.md)
-* [Account Einstellungen](accounts/account-einstellungen.md)
-* [2FA verwalten](accounts/2fa-verwalten.md)
-* [Account deaktivieren](accounts/account-deaktivieren.md)
-
-## Billing
-
-* [Billing](billing/billing.md)
-* [Ihre Rechnung bezahlen](billing/ihre-rechnung-bezahlen.md)
-* [Verspätete Zahlungen](billing/verspatete-zahlungen.md)
-* [Rechnungen](billing/rechnungen.md)
-* [Traffic Berechnung](billing/traffic-berechnung.md)
-* [Backup Berechnung](billing/backup-berechnung.md)
-
-***
-
-* [Schwachstellen - CVSS](schwachstellen-cvss.md)
-* [Verfügbarkeitsmatrix](verfugbarkeitsmatrix.md)
-* [Produkt Lifecycle](produkt-lifecycle.md)
-* [Service Level Agreements](service-level-agreements.md)
-
-## Status
-
-* [Status der centron Systeme](status/status-der-centron-systeme.md)
-* [Überblick über die Status Seite](status/uberblick-uber-die-status-seite.md)
-* [Abonnieren des System Status](status/abonnieren-des-system-status.md)
-* [Verwaltung der Status Benachrichtungen](status/verwaltung-der-status-benachrichtungen.md)
+* [© Product Docs Home](README.md)
+* [Kontingente](kontingente.md)
+* [File Based Backups (Premium Full Managing)](file-based-backups-premium-full-managing.md)
+* [© Platform Overview](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ufElPMaUSQ8ykq2V49a8/)
+* [© Compute](c-compute/README.md)
+  * [© ccloud³](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/nAiHdZ56F9BowpPgLTfm/)
+  * [© Kubernetes](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/7MgqTrq4DJq0p4cUkL2X/)
+  * [© cloud GPU](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/07clUVMD1EC95VyLnpv8/)
+* [© Storage](c-storage/README.md)
+  * [© Disks](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/RJxFPLhOBZQT2DPxjzdO/)
+  * [© S3 Object Storage](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/EGG2Onf254QEQYRC0RfO/)
+* [© Container & Images](c-container-and-images/README.md)
+  * [© Snapshots](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/o082PPUUPCRPO3E32ant/)
+  * [© Backups](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/czz3hng4tCdGGeB0gpWu/)
+  * [© Custom Images](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/Ihc3dsopca1rZn8MiulD/)
+* [© Premium Full Managing](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/bar4fTDVVgfa3rWsZHZf/)
+* [© Networking](c-networking/README.md)
+  * [© Domains & DNS](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/KMhKpeJSKbMbZqZ2Yud1/)
+  * [© IPs](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ZIJqlUHLmZoqHm3klrAZ/)
+  * [© Firewalls](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/8pGIk9BrNu8jfOLVGKf2/)
+  * [© SSL Zertifikate](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/PyzNumjKYXiUD7cv784O/)
+  * [© VPN](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/7Jc512s6Ir1kJgR1MBfk/)
+* [© Management](c-management/README.md)
+  * [© Kontingente](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/gJSJbKJxhr8RjSvf2aUS/)
+  * [© Advanced Monitoring](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/RcK7ZjlvffjpVlvpng85/)
+  * [© cReports](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/JN7ewqZ8cxbe1TZjEQcL/)
+* [© Webhosting](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ggVDhoR6duIDQi05PK9y/)
+* [© Colocation](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/s1TrDjcu8HAzQ6r6Z2YZ/)
+* [© Office 365](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/6fkyVZXsjQ35R2kKkivT/)
+* [© E-Mail](c-e-mail/README.md)
+  * [© Airmail](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/z4UpTEdBkqpuKhukqB8A/)
+  * [© Exchange](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/LoaLiVZePKPbTXKn6Fv2/)
+* [© SLAs & High Level Service Description](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/F92RaFVHDWnExnYKLiya/)
