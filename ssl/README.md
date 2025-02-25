@@ -1,5 +1,5 @@
 ---
-description: Erstellt am 29. November 2023
+description: Validiert am 7. Juli 2024 • Zuletzt bearbeitet am 01. Dezember 2024
 ---
 
 # SSL Zertifikate

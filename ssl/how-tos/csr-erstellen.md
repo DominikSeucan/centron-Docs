@@ -1,3 +1,7 @@
+---
+description: Validiert am 7. Juli 2024 • Zuletzt bearbeitet am 01. Dezember 2024
+---
+
 # CSR erstellen
 
 Um ein SSL Zertifikat bei einem Provider beantragen zu können, müssen Sie zuerst ein sogenanntes **Certificate Signing Request** (kurz. CSR) erstellen, welches eine Anforderung für die Registrierung eines Zertifikats bei einer Zertifizierungsstelle wie zum Beispiel Sectigo darstellt.
