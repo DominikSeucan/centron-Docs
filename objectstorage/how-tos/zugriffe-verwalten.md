@@ -4,6 +4,22 @@ description: Überprüft am 12. April 2024 • Zuletzt bearbeitet am 5. Januar 2
 
 # Zugriffe verwalten
 
+### Neue Access Keys erstellen
+
+Um weitere Access Keys für Ihren Bucket zu hinterlegen, navigieren Sie in Ihren Bucket. Um weitere Access Keys zu hinterlegen, klicken SIe auf den **Button Access Key generieren**. Ihr neue Access Key ist jetzt hinterlegt.
+
+&#x20;&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Um zu gewährleisten, dass Ihre Access Keys nicht verloren gehen, erhalten Sie Ihre Zugangsdaten ebenfalls per Mail.
+
+{% hint style="info" %}
+Wir empfehlen Ihnen, nach dem erstellen Ihres Buckets neue Access Keys zu generieren und anschließend das erste Keypaar, das beim Erstellen des Buckets generiert wurde, zu löschen.
+{% endhint %}
+
+
+
 Die Eigentümer von centron S3 Object Storage Buckets können alle Inhalte in allen Buckets eines Kontos erstellen, zerstören und lesen. Sie treffen auch Entscheidungen und verwalten, was andere sehen können. Wenn ein Eigentümer einer oder mehreren Personen erlauben möchte, Buckets gemeinsam zu verwalten, gibt es zwei Optionen: Zugangsschlüssel und centron Teams.
 
 **Zugangsschlüssel** ermöglichen es Personen oder Programmen, sich mit Hilfe von Drittanbieter-Clients und der API mit Buckets zu verbinden, bieten jedoch keinen Zugang zum Kontrollpanel oder anderen centron-Ressourcen.&#x20;
