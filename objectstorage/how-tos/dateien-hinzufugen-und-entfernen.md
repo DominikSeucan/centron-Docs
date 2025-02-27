@@ -6,7 +6,7 @@ description: Überprüft am 12. April 2024 • Zuletzt bearbeitet am 5. Januar 2
 
 ### Dateien hochladen
 
-**Größenbeschränkungen**: Aufgrund von Browserbeschränkungen funktionieren Uploads über das Control Panel am besten mit Dateien, die kleiner als 2 GB sind, und in Batches von weniger als 100 Dateien gruppiert sind. Für größere Dateien und Batches können Sie einen Drittanbieter-Client oder die DigitalOcean API verwenden.
+**Größenbeschränkungen**: Aufgrund von Browserbeschränkungen funktionieren Uploads über das Control Panel am besten mit Dateien, die kleiner als 2 GB sind, und in Batches von weniger als 100 Dateien gruppiert sind. Für größere Dateien und Batches können Sie einen Drittanbieter-Client oder die centron API verwenden.
 
 
 

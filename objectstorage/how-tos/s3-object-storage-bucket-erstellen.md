@@ -6,7 +6,7 @@ description: Überprüft am 12. April 2024 • Zuletzt bearbeitet am 5. Januar 2
 
 centron S3 Object Storage bietet Ihnen die Möglichkeit, große Mengen an Daten zu speichern und bereitzustellen. Jeder Bucket, den Sie innerhalb eines Kontos erstellen, hat seine eigene URL und kann als logische Einheit zur Segmentierung von Inhalten verwendet werden.
 
-Das URL-Namensschema für Spaces lautet bucketname.s3.internet1.de.
+Das URL-Namensschema für centron S3 Object Storage lautet bucketname.s3.internet1.de.
 
 
 
