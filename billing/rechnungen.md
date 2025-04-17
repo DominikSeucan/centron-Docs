@@ -28,7 +28,7 @@ Dieses Guthaben wird in Ihrer nächsten Rechnung aufgeführt und mit Ihrem Verba
 
 Die Rechnungen enthalten Referenzinformationen wie die Rechnungsnummer, das Fälligkeitsdatum sowie den Namen und die E-Mail-Adresse des Kontos. Sie können die auf den Rechnungen angezeigten Kontoinformationen auf der Seite Profil aktualisieren. Alle Änderungen, die Sie vornehmen, sind sofort auf den Rechnungen sichtbar, die Sie danach ansehen.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption><p>centron Beispielrechnung</p></figcaption></figure>
 
 ### Neueste Updates <a href="#latest-updates" id="latest-updates"></a>
 
