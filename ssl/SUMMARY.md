@@ -12,6 +12,7 @@
 * [SSL Zertifikat erstellen](how-tos/ssl-zertifikat-erstellen.md)
 * [SSL Zertifikat löschen](how-tos/ssl-zertifikat-loschen.md)
 * [CSR erstellen](how-tos/csr-erstellen.md)
+* [SSL-Zertifikat installieren oder austauschen](how-tos/ssl-zertifikat-installieren-oder-austauschen.md)
 * [SSL Zertifikat einrichten](how-tos/ssl-zertifikat-einrichten.md)
 * [Let's Encrypt Zertifikat erstellen](how-tos/lets-encrypt-zertifikat-erstellen.md)
 
