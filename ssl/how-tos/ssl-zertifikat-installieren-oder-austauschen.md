@@ -8,13 +8,19 @@ Diese Anleitung beschreibt Schritt für Schritt, wie Sie ein **SSL-Zertifikat im
 
 ### **SSL-Zertifikat installieren oder austauschen (Webpanel - Windows)**
 
-&#x20;**Info:** Sollten Sie ein Multidomain- oder Wildcard-Zertifikat besitzen, das ausgetauscht werden muss, wenden Sie sich bitte an den technischen Support. Diese Zertifikate können nicht über das Webpanel ausgetauscht werden.&#x20;
+{% hint style="info" %}
+**Info:** Sollten Sie ein Multidomain- oder Wildcard-Zertifikat besitzen, das ausgetauscht werden muss, wenden Sie sich bitte an den technischen Support. Diese Zertifikate können nicht über das Webpanel ausgetauscht werden.&#x20;
+{% endhint %}
 
 ### &#x20;1. Zugang zum Webpanel (Windows)
 
 #### **1.1 Anmeldung**
 
-Zum Tausch des Zertifikats loggen Sie sich bitte in unser Webpanel ein. Info: Der Benutzername ist hier Ihre Kundennummer.
+Zum Tausch des Zertifikats loggen Sie sich bitte in unser Webpanel ein.&#x20;
+
+{% hint style="info" %}
+Info: Der Benutzername ist hier Ihre Kundennummer.
+{% endhint %}
 
 \
 👉 **https://webpanel.internet1.de/**
@@ -23,12 +29,13 @@ Zum Tausch des Zertifikats loggen Sie sich bitte in unser Webpanel ein. Info: De
 
 Nach dem Login sollte die Benutzeroberfläche wie gewohnt erscheinen.
 
-**Hinweis:** Falls Sie kein Hosting-Paket sehen, klicken Sie in der linken Spalte (siehe Bild) auf den Menüpunkt **„Hosting-Bereich Menü“**.\
+{% hint style="info" %}
+**Hinweis:** Falls Sie kein Hosting-Paket sehen, klicken Sie in der linken Spalte (siehe Bild) auf den Menüpunkt **„Hosting-Bereich Menü“**.
+{% endhint %}
+
 Dort finden Sie den Reiter **„Webseiten“**, über den Sie Ihre Domain verwalten und Zertifikate tauschen können.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-***
 
 #### 1.2 Webseite auswählen
 
@@ -55,8 +62,6 @@ Wenn Sie im Bereich **„Webseiten-Zeiger“** (oben rechts) weitere Domains ein
 Beim Austausch des Zertifikats mit mehreren Domains im Webseiten-Zeiger kann es dazu kommen, dass wichtige Bindungen **automatisch entfernt** werden und **nicht korrekt neu gesetzt** werden.\
 Dies kann zu **Fehlfunktionen oder dem vollständigen Ausfall** der Webseite führen.
 {% endhint %}
-
-
 
 ### 2. Einrichtung eines **Let's Encrypt** Zertifikats
 
@@ -146,7 +151,7 @@ Wenn noch das alte Zertifikat angezeigt wird, liegt das oft am **Browser-Cache**
 #### 3.5 Zertifikat extern prüfen
 
 Zur zuverlässigen Prüfung empfehlen wir den kostenlosen SSL-Checker:\
-👉 [https://ssl-trust.com/SSL-Zertifikate/check](https://ssl-trust.com/SSL-Zertifikate/check)
+[https://ssl-trust.com/SSL-Zertifikate/check](https://ssl-trust.com/SSL-Zertifikate/check)
 
 * Geben Sie dort Ihre Domain ein
 
@@ -236,7 +241,7 @@ Wenn alles korrekt eingerichtet wurde, wird das Zertifikat automatisch installie
 &#x20;2.1 Zertifikatsdateien im ccenter herunterladen
 
 1. Melden Sie sich im **centron ccenter** an.\
-   👉 https://ccenter.centron.de/
+   https://ccenter.centron.de/
 2. Navigieren Sie zum **„SSL-Manager“.**
 3. Wählen Sie Ihr Zertifikat aus, das für Ihre Webseite erstellt wurde.
 4. Laden Sie die folgenden drei Dateien herunter:
