@@ -9,9 +9,9 @@
 
 ## How Tos
 
-* [Backups aktivieren](how-tos/backups-aktivieren.md)
+* [cBacks aktivieren](how-tos/cbacks-aktivieren.md)
 * [VM Restore](how-tos/vm-restore.md)
-* [Backups deaktivieren](how-tos/backups-deaktivieren.md)
+* [cBacks deaktivieren](how-tos/cbacks-deaktivieren.md)
 
 ## Referenz
 
@@ -26,8 +26,3 @@
 * [Features](details/features.md)
 * [Pricing](details/pricing.md)
 * [Limits](details/limits.md)
-* [Service Level Agreement](details/service-level-agreement.md)
-
-***
-
-* [Support](support.md)

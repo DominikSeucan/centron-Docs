@@ -4,11 +4,11 @@ description: Überprüft am 12. April 2024 • Zuletzt bearbeitet am 12. Novembe
 
 # Glossar
 
-In diesem Glossar werden grundlegende Konzepte hinter Backups erklärt. So wollen wir ein besseres Verständnis dafür schaffen, wie Backups funktionieren und was bestimmte Begriffe in der Dokumentation bedeuten.
+In diesem Glossar werden grundlegende Konzepte hinter cBacks erklärt. So wollen wir ein besseres Verständnis dafür schaffen, wie cBacks funktionieren und was bestimmte Begriffe in der Dokumentation bedeuten.
 
 **Crash-Consistent Backup**
 
-Ein Crash-Consistent Backup ist ein Disk-Image, das den Zustand einer Festplatte genau so speichert, wie er zu einem bestimmten Zeitpunkt war. Dies bedeutet, dass das Backup Daten enthält, die bis zu dem Zeitpunkt der Erstellung des Backups vorhanden waren. Es garantiert jedoch nicht, dass die Daten in einem konsistenten Zustand sind, falls die Anwendungen zum Zeitpunkt des Backups nicht ordnungsgemäß geschlossen wurden.
+Ein Crash-Consistent Backup ist ein Disk-Image, das den Zustand einer Festplatte genau so speichert, wie er zu einem bestimmten Zeitpunkt war. Dies bedeutet, dass das Backup Daten enthält, die bis zu dem Zeitpunkt der Erstellung des cBacks vorhanden waren. Es garantiert jedoch nicht, dass die Daten in einem konsistenten Zustand sind, falls die Anwendungen zum Zeitpunkt des cBacks nicht ordnungsgemäß geschlossen wurden.
 
 **Disk Image**
 
