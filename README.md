@@ -1,16 +1,5 @@
 ---
 description: Validiert am 7. Juli 2023 • Zuletzt bearbeitet am 25. Februar 2025
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # © Product Docs Home
