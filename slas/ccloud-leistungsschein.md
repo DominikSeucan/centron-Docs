@@ -81,6 +81,16 @@ Der Kunde erklärt sich mit der Einhaltung der Richtlinien für Sicherheitstests
 
 
 
+**Verantwortung für KI-Systeme nach dem EU AI Act**
+
+1. Der Kunde ist allein verantwortlich für die Entwicklung, den Betrieb und die Nutzung von Künstlicher Intelligenz (KI)-Systemen, die auf der durch centron bereitgestellten Infrastruktur (insbesondere GPU-Servern, Cloud-Ressourcen und Storage) betrieben werden.
+2. Der Kunde stellt sicher, dass alle eingesetzten KI-Systeme den Vorgaben des [**EU Artificial Intelligence Act (AI Act)**](https://artificialintelligenceact.eu/de/) sowie weiteren anwendbaren gesetzlichen und regulatorischen Anforderungen entsprechen.
+3. centron erbringt ausschließlich Infrastrukturleistungen und übernimmt keine Rolle als „Provider“ oder „Deployer“ im Sinne des AI Act. Eine rechtliche oder inhaltliche Prüfung der durch den Kunden betriebenen KI-Systeme durch centron erfolgt nicht.
+4. Der Kunde verpflichtet sich, centron von sämtlichen Ansprüchen Dritter sowie behördlichen Maßnahmen freizustellen, die aus einer nicht konformen Nutzung von KI-Systemen resultieren.
+5. centron ist berechtigt, den Betrieb einzelner Systeme zu sperren oder zu beenden, wenn konkrete Anhaltspunkte vorliegen, dass durch den Kunden betriebene KI-Systeme gegen den AI Act oder zwingendes Recht verstoßen.
+
+
+
 ## 4 Salvatorische Klausel
 
 Sollten einzelne Bestimmungen dieses Leistungsscheines ganz oder teilweise nicht rechtswirksam oder nicht durchführbar sein oder werden, so soll hierdurch die Gültigkeit der übrigen Bestimmungen des jeweiligen Einzelvertrages nicht berührt werden. Das Gleiche gilt für den Fall, dass der jeweilige Vertrag eine Regelungslücke enthält. Anstelle der unwirksamen oder undurchführbaren Bestimmung oder zur Ausfüllung der Lücke soll eine angemessene Regelung gelten, die, soweit möglich, dem am nächsten kommt, was die Vertragsparteien vereinbaren wollten.
