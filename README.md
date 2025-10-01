@@ -1,24 +1,32 @@
 ---
-description: Validiert am 7. Juli 2023 • Zuletzt bearbeitet am 25. Februar 2025
+description: Validiert am 7. Juli 2023 • Zuletzt bearbeitet am 17. Mai 2024
 ---
 
-# © Product Docs Home
-
-<figure><img src=".gitbook/assets/Docs.png" alt="Allumfassende Dokumentation/Documentation für jedes centron Produkt"><figcaption></figcaption></figure>
-
-### Meist gesehene Product Docs
-
-<table data-header-hidden><thead><tr><th>_</th><th>_</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><ol><li><a href="https://app.gitbook.com/s/KMhKpeJSKbMbZqZ2Yud1/how-tos/domain-hinzufugen">Domains hinzufügen</a></li></ol></td><td><ol start="6"><li><a href="https://app.gitbook.com/s/KMhKpeJSKbMbZqZ2Yud1/how-tos/dns-records-verwalten">DNS Records bearbeiten</a></li></ol></td><td></td><td></td></tr><tr><td><ol start="2"><li><a href="https://app.gitbook.com/s/nAiHdZ56F9BowpPgLTfm/how-tos/via-konsole-verbinden">Mit VMs via Konsole verbinden</a></li></ol></td><td><ol start="7"><li><a href="https://app.gitbook.com/s/z4UpTEdBkqpuKhukqB8A/how-tos/airmail-einrichten/postfach-auf-gerat-einrichten">E-Mail Postfach auf Gerät einrichten</a></li></ol></td><td></td><td></td></tr><tr><td><ol start="3"><li><a href="https://app.gitbook.com/s/PyzNumjKYXiUD7cv784O/how-tos">SSL Zertifikat hinzufügen</a></li></ol></td><td><ol start="8"><li><a href="https://app.gitbook.com/s/KMhKpeJSKbMbZqZ2Yud1/how-tos">Domains managen</a></li></ol></td><td></td><td></td></tr><tr><td><ol start="4"><li><a href="https://app.gitbook.com/s/nAiHdZ56F9BowpPgLTfm/how-tos/vm-resize">VM Resize</a></li></ol></td><td><ol start="9"><li><a href="https://app.gitbook.com/s/o082PPUUPCRPO3E32ant/how-tos/vm-restore">VM aus einem Snapshot wiederherstellen</a></li></ol></td><td></td><td></td></tr><tr><td><ol start="5"><li><a href="https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/KMhKpeJSKbMbZqZ2Yud1/">Subdomain hinzufügen</a></li></ol></td><td><ol start="10"><li><a href="https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ufElPMaUSQ8ykq2V49a8/"> Plattform Übersicht</a></li></ol></td><td></td><td></td></tr></tbody></table>
+# Platform Overview
 
 
 
-### Erste Schritte mit centron
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p><img src="https://docs.digitalocean.com/images/icons/release-notes.svg" alt="" data-size="line"> <a href="platform-overview/release-notes.md"><strong>Release Notes</strong></a></p><p></p><p>Release-Notes dokumentieren inkrementelle Verbesserungen und größere Releases für die centron Cloud-Plattform.</p></td><td></td><td></td><td><a href="platform-overview/release-notes.md">release-notes.md</a></td></tr><tr><td><p><img src="https://docs.digitalocean.com/images/icons/availability-matrix.svg" alt="" data-size="line"> <a href="verfugbarkeitsmatrix.md"><strong>Verfügbarkeitsmatrix</strong></a></p><p></p><p>Verfügbarkeit und Kompatibilität von centron Produkten nach Rechenzentrum und Region.</p></td><td></td><td></td><td><a href="verfugbarkeitsmatrix.md">verfugbarkeitsmatrix.md</a></td></tr><tr><td><p><img src="https://docs.digitalocean.com/images/icons/default.svg" alt=""> <a href="produkt-lifecycle.md"><strong>Produkt Lebenszyklus</strong></a></p><p></p><p>Verfügbarkeits- und Rückzugsverfahren für die verschiedenen Phasen der centron Produkt-Releases.</p></td><td></td><td></td><td><a href="produkt-lifecycle.md">produkt-lifecycle.md</a></td></tr></tbody></table>
 
-{% content-ref url="https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ufElPMaUSQ8ykq2V49a8/" %}
-[Platform Overview](https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ufElPMaUSQ8ykq2V49a8/)
-{% endcontent-ref %}
 
-***
 
-<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><img src="https://docs.digitalocean.com/images/icons/compute.svg" alt=""> <a href="c-compute/"><strong>Compute</strong></a></td><td>Erstellen Sie Anwendungen, indem Sie Ihre eigene Infrastruktur mit <strong>ccloud³ Virtual Machines</strong> verwalten, nutzen Sie unsere PaaS-Umgebung mit dem <strong>ccenter</strong> oder geben Sie den Admin-Aufwand an uns ab mit <strong>Premium Full Managing</strong> und <strong>Premium Managed Services</strong>.</td><td></td><td><a href="c-compute/">c-compute</a></td></tr><tr><td><img src="https://docs.digitalocean.com/images/icons/storage.svg" alt=""> <a href="c-storage/"><strong>Storage</strong></a></td><td>Speichern Sie <strong>beliebige Datenmengen</strong> zuverlässig in der Cloud und greifen Sie schnell darauf zu. centron bietet Ihnen <strong>verschiedene Arten</strong> von <strong>Storage</strong>, je nach Ihren Bedürfnissen.</td><td></td><td><a href="c-storage/">c-storage</a></td></tr><tr><td><img src="https://docs.digitalocean.com/images/icons/networking.svg" alt="" data-size="original"> <a href="c-networking/"><strong>Networking</strong></a></td><td>Sichern und kontrollieren Sie den Traffic zu Ihren Anwendungen mit <strong>VPC-Netzwerken</strong>, <strong>Traffic Filtern</strong> und <strong>Load Balancern</strong>.</td><td></td><td><a href="c-networking/">c-networking</a></td></tr><tr><td><img src="https://docs.digitalocean.com/images/icons/billing.svg" alt=""> <a href="https://app.gitbook.com/s/ufElPMaUSQ8ykq2V49a8/billing"><strong>Billing</strong></a></td><td>Informationen zur Rechnungsstellung - einschließlich <strong>Rechnungen</strong>, <strong>Zahlungsmodalitäten</strong>, <strong>Zahlungsverzug</strong> und <strong>Steuern</strong>.</td><td></td><td><a href="https://app.gitbook.com/s/ufElPMaUSQ8ykq2V49a8/billing">Billing</a></td></tr><tr><td><img src="https://docs.digitalocean.com/images/icons/databases.svg" alt="" data-size="line"> <a href="https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ggVDhoR6duIDQi05PK9y/"><strong>Webhosting</strong></a></td><td>Hier finden Sie alle <strong>Details</strong> und notwendige Informationen zu Ihren <strong>Webhosting</strong> Paketen.</td><td></td><td><a href="https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/ggVDhoR6duIDQi05PK9y/">Webhosting</a></td></tr><tr><td><img src="https://docs.digitalocean.com/images/icons/platform.svg" alt="" data-size="line"> <a href="https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/s1TrDjcu8HAzQ6r6Z2YZ/"><strong>Colocation</strong></a></td><td>Informationen und Hard Facts zu Ihren Colocation Produkten, wie einzelnen <strong>Höheneinheiten</strong>, <strong>Strom</strong> &#x26; <strong>Traffic</strong>.</td><td></td><td><a href="https://app.gitbook.com/o/qZfyhEIOoMD2Tm025WII/s/s1TrDjcu8HAzQ6r6Z2YZ/">Colocation</a></td></tr></tbody></table>
+### Plattform Informationen
+
+Centron bietet eine Vielzahl von Produkten, die unterschiedlichsten Use Cases gerecht werden.
+
+Informationen zum ccenter, wie beispielsweise unsere verfügbaren Produkte, und zu Produktregelungen, einschließlich Verfügbarkeiten und Auslaufpolitik, finden Sie hier.
+
+Unsere [Trust-Plattform](https://www.centron.de/trust-center/) bietet Informationen zu unseren Transparenzberichten (einschließlich GDPR und Privacy Shield), Zertifizierungsberichten und einem Trust-FAQ.
+
+Auf unserer Hauptwebsite unter [Datenschutz](https://www.centron.de/datenschutz/) können Sie unsere gesetzlichen Richtlinien und Sicherheitsmaßnahmen einsehen. Dort wird erläutert, wie wir Informationen erfassen, verarbeiten und weitergeben.
+
+
+
+### Die richtige Hilfe bekommen
+
+Centron bietet Ihnen Unterstützung auf unterschiedlichen Wegen wegen an, wobei jede Option ihren eigenen Schwerpunkt hat.
+
+
+
+<table><thead><tr><th width="266">Website</th><th>Inhalt</th></tr></thead><tbody><tr><td><strong>Produktdokumentation</strong> (hier befinden Sie sich aktuell)</td><td><p>Informationen zu centron Produktfunktionen, Preisen, Verfügbarkeit und Beschränkungen;</p><p>Nutzung von Produkten über das ccenter;</p><p>Verwaltung von Konto, Teams und Abrechnung;</p><p>Plattformdetails wie Release-Notes und Produktrichtlinien</p></td></tr><tr><td><a href="https://doku.ccloud.de/#ccloud-customer-api"><strong>API-Dokumentation</strong></a></td><td>Nutzen Sie centron automatisiert zur Verwaltung von Ressourcen</td></tr><tr><td><a href="https://www.centron.de/tutorials/"><strong>Community-Tutorials</strong></a></td><td>Anleitungen zum Aufbau auf centron-Ressourcen, Serververwaltung, Code-Schreiben und -Bereitstellung, Installation und Konfiguration von Open-Source-Tools</td></tr><tr><td><a href="https://status.centron.de/"><strong>Statusseite</strong></a></td><td>Aktueller Status der centron-Dienste</td></tr><tr><td><a href="https://www.centron.de/kontaktieren-sie-centron/"><strong>Kundensupport kontaktieren</strong></a></td><td>Hilfe zu Konto oder Dienstleistungen</td></tr><tr><td><a href="https://www.centron.de/kontaktieren-sie-centron/"><strong>Vertrieb kontaktieren</strong></a></td><td>Unterstützung bei umfangreichen Deployments</td></tr><tr><td><a href="https://www.centron.de/kontaktieren-sie-centron/"><strong>Missbrauch melden</strong></a></td><td>Melden von Missbrauch oder verdächtigen Aktivitäten</td></tr></tbody></table>
 

@@ -12,7 +12,7 @@ Sie können Ihr Konto von der Seite "Mein Konto" aus deaktivieren. Um auf die Se
 
 Auf der Seite "Mein Konto" scrollen Sie zum Abschnitt "Konto deaktivieren".
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Klicken Sie auf "Konto deaktivieren". Wenn Sie der alleinige Eigentümer eines Teams sind, werden Sie zur Seite "Vor der Deaktivierung" weitergeleitet, die alle Schritte auflistet, die Sie vor der Deaktivierung Ihres Kontos unternehmen müssen. Dazu zählen unter anderem das Löschen von Teamressourcen und das Löschen oder Übertragen des Eigentums an Teams.
 

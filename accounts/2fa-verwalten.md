@@ -12,17 +12,17 @@ Stattdessen empfehlen wir Ihnen dringend, die Zwei-Faktor-Authentifizierung für
 
 Wenn Sie die Zwei-Faktor-Authentifizierung für Ihr centron-Konto aktivieren möchten, müssen Sie Ihren zweiten Faktor wählen.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Auswahl des zweiten Faktors&#x20;
 
 Wenn Sie auf die Schaltfläche "2FA einrichten" klicken, müssen Sie einen zweiten Faktor wählen: Entweder die Verwendung einer Authentifikator-App oder die Verwendung von SMS.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Im Anschluss wird Ihnen bei Ihrem Login folgender Schritt angezeigt:&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Verwendung einer App (bevorzugt)&#x20;
 

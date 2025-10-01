@@ -12,7 +12,7 @@ Wenn wir eine Rechnung erstellen, senden wir eine PDF-Datei per E-Mail an die im
 
 Ihre letzte Rechnung finden Sie im Bereich [Rechnungen ](https://ccenter.internet1.de/invoices/list)in Ihren Kundendaten.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Guthaben
 
@@ -22,7 +22,7 @@ Klicken Sie auf die Schaltfläche Zahlung, um die Seite **Zahlung leisten** aufz
 
 Dieses Guthaben wird in Ihrer nächsten Rechnung aufgeführt und mit Ihrem Verbauch verrechnet.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Aufbau einer Rechnung
 
